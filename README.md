@@ -7,6 +7,5 @@ NextGen Digital Banking Suite is a robust full-stack Java application offering s
 <img width="1919" height="793" alt="Screenshot 2025-08-06 143211" src="https://github.com/user-attachments/assets/1ffffd1c-11df-4190-a4ec-720a29bc5c97" />
 <img width="1919" height="988" alt="Screenshot 2025-08-06 143227" src="https://github.com/user-attachments/assets/0ce673d2-2876-4299-a474-4c8f5aa6c59d" />
 <img width="1535" height="1039" alt="Screenshot 2025-08-06 143306" src="https://github.com/user-attachments/assets/3d727f8e-f041-4433-8804-1b834cdc7708" />
-
 https://github.com/user-attachments/assets/d13280fb-a1c8-4805-96e3-bd6c40c0671f
 
