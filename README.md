@@ -3,7 +3,6 @@
 Click on the link to download and redirect to the Project.
 
 
-[https://github.com/RohithKumarSK/NextGen-Digital-Banking-Suite/raw/refs/heads/main/NextGen%20Digital%20Banking%20Suite/NextGen_Digital_Banking_Suite.jar]
 (https://github.com/RohithKumarSK/NextGen-Digital-Banking-Suite/raw/refs/heads/main/NextGen%20Digital%20Banking%20Suite/NextGen_Digital_Banking_Suite.jar)
 
 
